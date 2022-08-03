@@ -1,4 +1,3 @@
-import { sdfd } from 'sdfsdf';
 import A from './A';
 import styles from '../styles/NavBar.module.scss';
 

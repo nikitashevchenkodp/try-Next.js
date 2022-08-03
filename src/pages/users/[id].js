@@ -33,6 +33,6 @@ export async function getServerSideProps({ params }) {
   console.log(params);
   const res = await fetch(`https://jsonplaceholder.typicode.com/users/${params.id}`);
   const user = await res.json();
-
+  //sdfsdf
   return { props: { user } };
 }
