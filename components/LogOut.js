@@ -3,12 +3,12 @@ import React from 'react'
 const LogOut = () => {
   return (
     <div>
-      <form>
-        <input type="text" />
-        <input type="text" />
-        <input type="text" />
-        <input type="text" />
-      </form>
+<<<<<<< HEAD
+
+=======
+      LogOut
+      <input/>
+>>>>>>> 7406947 (Revert "Revert "Add input to Logout"")
     </div>
   )
 }
