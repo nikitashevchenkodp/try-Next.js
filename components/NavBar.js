@@ -8,7 +8,7 @@ const NavBar = () => {
         <A href="/" text = "Main" />
         <A href="/users" text = "Users" />
     </div>   
-  )
+  )     
     //Comment
 }
 
