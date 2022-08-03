@@ -9,6 +9,7 @@ const NavBar = () => {
         <A href="/users" text = "Users" />
     </div>
   )
+    //Comment
 }
 
 export default NavBar;
