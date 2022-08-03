@@ -7,7 +7,7 @@ const NavBar = () => {
     <div className={styles.navBar}>
         <A href="/" text = "Main" />
         <A href="/users" text = "Users" />
-    </div>
+    </div>   
   )
     //Comment
 }
