@@ -1,9 +1,15 @@
 import React from 'react'
 
 const LogOut = () => {
-  //Changec on Master Branch
   return (
-    <div>LogOut</div>
+    <div>
+      <form>
+        <input type="text" />
+        <input type="text" />
+        <input type="text" />
+        <input type="text" />
+      </form>
+    </div>
   )
 }
 
