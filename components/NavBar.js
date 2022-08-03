@@ -1,5 +1,6 @@
 import A from './A'
 import styles from '../styles/NavBar.module.scss'
+import {sdfd} from 'sdfsdf'
 
 
 const NavBar = () => {
@@ -12,4 +13,4 @@ const NavBar = () => {
     //Comment
 }
 
-export default NavBar;
+export default NavBar
